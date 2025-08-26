@@ -9,8 +9,7 @@ https://ko-nlp.github.io/Korpora/ko-docs/corpuslist/nsmc.html
 -----
 ## 실행 결과 
 - 정답 입력 
-<img width="849" height="538" alt="image" src="https://github.com/user-attachments/assets/d3d4410a-6fd9-4e40-b607-c2d799a9c635" />
-
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/98f9ac81-9c62-4211-86a8-6ae35057f9ca" />
 
 
 <br>
